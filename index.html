@@ -565,8 +565,8 @@
         </div>
       </section>
 
-      <!-- Contact Form
-      <section class="section section-sm section-last bg-default text-left" id="contacts">
+      <!-- Contact Form-->
+      <section class="section section-sm section-last bg-default text-center" id="contacts">
         <div class="container">
           <article class="title-classic">
             <div class="title-classic-title">
@@ -581,13 +581,40 @@
           
           <p>
           
-            
-              <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-4e5cdb4e-5210-4ce3-bf62-19a92d3374d8"></div>
-</p>
+            <form name="contact" class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global" data-form-type="contact-modal" method="post" data-netlify="true">
+              <div class="row row-14 gutters-14">
+                <div class="col-12">
+                  <div class="form-wrap">
+                    <input class="form-input" id="contact-modal-name" type="text" name="name" data-constraints="@Required">
+                    <label class="form-label" for="contact-modal-name">Seu nome</label>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <div class="form-wrap">
+                    <input class="form-input" id="contact-modal-email" type="email" name="email" data-constraints="@Email @Required">
+                    <label class="form-label" for="contact-modal-email">E-mail</label>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <div class="form-wrap">
+                    <input class="form-input" id="contact-modal-phone" type="text" name="phone" data-constraints="@Numeric">
+                    <label class="form-label" for="contact-modal-phone">Telefone</label>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <div class="form-wrap">
+                    <label class="form-label" for="contact-modal-message">Mensagem</label>
+                    <textarea class="form-input textarea-lg" id="contact-modal-message" name="message" data-constraints="@Required"></textarea>
+                  </div>
+                </div>
+              </div>
+              <button class="button button-primary button-pipaluk" type="submit">Enviar Mensagem</button>
+            </form>
+         
+          </p>
             
         </div>
-      </section> -->
+      </section> 
 
       
       
