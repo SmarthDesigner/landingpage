@@ -1,0 +1,81 @@
+linha 45
+<header class="header" id="frame-panel">
+<a href="https://www.templatemonster.com/pt-br/templates-de-site/72010.html" class="back-to-product">
+  <span class="back-to-product-icon"></span>
+  Eventy - Modelo de site HTML multiuso de evento público agradável  </a>
+<div class="devices devices-static" id="devices" data-translations="{&quot;desktop&quot;:&quot;Desktop&quot;,&quot;tablet&quot;:&quot;Tablet&quot;,&quot;smartphone&quot;:&quot;Mobile&quot;}"></div>
+<div class="header-buttons">
+  <div class="add-to-cart" id="add-to-cart"
+    data-translations="{&quot;label&quot;:&quot;Compre agora&quot;,&quot;modalLabel&quot;:&quot;Adicionar ao carrinho&quot;,&quot;servicesTitle&quot;:&quot;Recommended services available for this item&quot;,&quot;freeTitle&quot;:&quot;Free Product&quot;}"
+    data-product-id="72010"
+    data-product-title="Eventy - Modelo de site HTML multiuso de evento público agradável"
+    data-type-id="1"
+    data-licenses="[{&quot;type&quot;:&quot;regular&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;amount&quot;,&quot;value&quot;:0,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:46,&quot;items&quot;:[],&quot;isDefault&quot;:0,&quot;translates&quot;:{&quot;title&quot;:&quot;Licen\u00e7a pessoal&quot;,&quot;description&quot;:&quot;Esta licen\u00e7a pode ser usada apenas para um site pessoal. Com esta licen\u00e7a, voc\u00ea n\u00e3o pode revender ou redistribuir o modelo ou o produto final com base nele&quot;},&quot;prices&quot;:{&quot;regular&quot;:301,&quot;regularLabel&quot;:&quot;R$\u00a0301&quot;,&quot;discount&quot;:301,&quot;discountLabel&quot;:&quot;R$\u00a0301&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 46&quot;}},{&quot;type&quot;:&quot;commercial&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;percent&quot;,&quot;value&quot;:30,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:47,&quot;items&quot;:[],&quot;isDefault&quot;:1,&quot;translates&quot;:{&quot;title&quot;:&quot;Licen\u00e7a comercial&quot;,&quot;description&quot;:&quot;Com esta licen\u00e7a, voc\u00ea e seus clientes podem criar at\u00e9 cinco sites diferentes. A licen\u00e7a permite que voc\u00ea transfira ou revenda os produtos finais (sites com base neste modelo)&quot;},&quot;prices&quot;:{&quot;regular&quot;:391,&quot;regularLabel&quot;:&quot;R$\u00a0391&quot;,&quot;discount&quot;:391,&quot;discountLabel&quot;:&quot;R$\u00a0391&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 47&quot;}},{&quot;type&quot;:&quot;regular&quot;,&quot;modifier&quot;:{&quot;type&quot;:&quot;amount&quot;,&quot;value&quot;:200,&quot;operation&quot;:&quot;addition&quot;},&quot;id&quot;:9,&quot;items&quot;:[],&quot;isDefault&quot;:0,&quot;translates&quot;:{&quot;title&quot;:&quot;Alvar\u00e1 de funcionamento&quot;,&quot;description&quot;:&quot;Esta licen\u00e7a permite criar at\u00e9 50 sites diferentes. Com esta licen\u00e7a, voc\u00ea pode transferir ou revender os produtos finais (sites com base neste modelo).&quot;},&quot;prices&quot;:{&quot;regular&quot;:1322,&quot;regularLabel&quot;:&quot;R$\u00a01.322&quot;,&quot;discount&quot;:1322,&quot;discountLabel&quot;:&quot;R$\u00a01.322&quot;},&quot;gee&quot;:{&quot;variant&quot;:&quot;regular + 9&quot;}}]"
+    data-services="[{&quot;id&quot;:370,&quot;translates&quot;:{&quot;title&quot;:&quot;Convers\u00e3o para Wordpress Premium&quot;},&quot;prices&quot;:{&quot;regular&quot;:2036,&quot;regularLabel&quot;:&quot;R$\u00a02.036&quot;,&quot;discount&quot;:1679,&quot;discountLabel&quot;:&quot;R$\u00a01.679&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:370,&quot;price&quot;:3.29,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: Website Templates: Converting to WordPress&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:888,&quot;translates&quot;:{&quot;title&quot;:&quot;Site Premium Pronto Para Uso&quot;},&quot;prices&quot;:{&quot;regular&quot;:1526,&quot;regularLabel&quot;:&quot;R$\u00a01.526&quot;,&quot;discount&quot;:1271,&quot;discountLabel&quot;:&quot;R$\u00a01.271&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:888,&quot;price&quot;:2.49,&quot;brand&quot;:&quot;TT&quot;,&quot;category&quot;:&quot;TT: Website and Joomla Templates: Classic Website Customization Service&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:2,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:897,&quot;translates&quot;:{&quot;title&quot;:&quot;GDPR Suite - Novas Regras de Privacidade da UE&quot;},&quot;prices&quot;:{&quot;regular&quot;:250,&quot;regularLabel&quot;:&quot;R$\u00a0250&quot;,&quot;discount&quot;:250,&quot;discountLabel&quot;:&quot;R$\u00a0250&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:897,&quot;price&quot;:0.49,&quot;brand&quot;:&quot;Zemez&quot;,&quot;category&quot;:&quot;TM: Website&amp;Landing: GDPR &amp; CCPA Compliance - New Privacy Rules&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:3,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:165,&quot;translates&quot;:{&quot;title&quot;:&quot;Licen\u00e7a comercial&quot;},&quot;prices&quot;:{&quot;regular&quot;:352,&quot;regularLabel&quot;:&quot;R$\u00a0352&quot;,&quot;discount&quot;:153,&quot;discountLabel&quot;:&quot;R$\u00a0153&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:165,&quot;price&quot;:0.3,&quot;brand&quot;:&quot;TM&quot;,&quot;category&quot;:&quot;TM : Joomla, Drupal, HTML, Landing, Flash: Developer&#039;s License&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:4,&quot;list&quot;:&quot;Type - Offers&quot;}},{&quot;id&quot;:1173,&quot;translates&quot;:{&quot;title&quot;:&quot;Otimiza\u00e7\u00e3o Estendida On-Page SEO&quot;},&quot;prices&quot;:{&quot;regular&quot;:1526,&quot;regularLabel&quot;:&quot;R$\u00a01.526&quot;,&quot;discount&quot;:1526,&quot;discountLabel&quot;:&quot;R$\u00a01.526&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:1173,&quot;price&quot;:2.99,&quot;brand&quot;:&quot;FM&quot;,&quot;category&quot;:&quot;FM: Extended On-Page SEO Optimization (preview)&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:5,&quot;list&quot;:&quot;Type - Offers&quot;}}]"
+    data-paid-supports="{&quot;isIncludeBasicSupport&quot;:true,&quot;items&quot;:[{&quot;id&quot;:10197,&quot;translates&quot;:{&quot;title&quot;:&quot;Obtenha mais 6 meses de suporte e economize R$\u00a0117&quot;,&quot;description&quot;:&quot;Voc\u00ea obter\u00e1 6 meses de suporte do autor com o produto. Para saber mais sobre o que est\u00e1 inclu\u00eddo, por favor, leia a &lt;a href=\&quot;https:\/\/www.templatemonster.com\/support-policy\/\&quot; target=\&quot;_blank\&quot;&gt;politica de suporte&lt;\/a&gt;.&quot;},&quot;prices&quot;:{&quot;regular&quot;:209,&quot;regularLabel&quot;:&quot;R$\u00a0209&quot;,&quot;discount&quot;:92,&quot;discountLabel&quot;:&quot;R$\u00a092&quot;},&quot;gee&quot;:{&quot;name&quot;:&quot;Offer&quot;,&quot;id&quot;:10197,&quot;price&quot;:0.18,&quot;brand&quot;:&quot;TM&quot;,&quot;category&quot;:&quot;paid support&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Type - Paid Support&quot;}}]}"
+    data-free="{&quot;enable&quot;:false}"
+    data-is-state-sale="true"
+    data-is-default-paid-support-on="true"
+    data-product-gee="{&quot;name&quot;:&quot;Html website template&quot;,&quot;id&quot;:72010,&quot;price&quot;:0.59,&quot;brand&quot;:&quot;Web&quot;,&quot;category&quot;:&quot;event planner templates&quot;,&quot;variant&quot;:&quot;premium&quot;,&quot;list&quot;:&quot;Type&quot;}"></div>
+        <a
+      href="https://www.templatemonster.com/monsterone/tm-membership/?id=72010&tmaff=rockthemes"
+      target=""
+      rel=""
+      class="header-btn header-btn_membership"
+    >
+      Obtenha Downloads Ilimitados      </a>
+  
+  <div id="cart" class="header-button header_cart-demo cart-button"
+    data-cart-translations="{&quot;cartTitle&quot;:&quot;Carrinho de Compras &quot;,&quot;titleServices&quot;:&quot;Servi\u00e7os de personaliza\u00e7\u00e3o recomendados para este produto&quot;,&quot;servicesDetailsLabel&quot;:&quot;Detalhes&quot;,&quot;labelBack&quot;:&quot;Voltar para todos os servi\u00e7os&quot;,&quot;cartTop&quot;:&quot;Voc\u00ea adicionou ao carrinho&quot;,&quot;continueLabel&quot;:&quot;Continue comprando&quot;,&quot;licenseCaption&quot;:&quot;Tipo de licen\u00e7a&quot;,&quot;priceCaption&quot;:&quot;Total&quot;,&quot;singlePriceCaption&quot;:&quot;Subtotal&quot;,&quot;viewCartLabel&quot;:&quot;Ir para o carrinho&quot;,&quot;priceButtonLabel&quot;:&quot;Saindo agora&quot;,&quot;freeLabel&quot;:&quot;De gra\u00e7a&quot;,&quot;feeCaption&quot;:&quot;Taxa de manuseio&quot;,&quot;labelCusomersChoice&quot;:&quot;Escolha dos clientes \u21161&quot;}"
+    aria-label="Carrinho"
+    title="Carrinho"
+  >
+    <i class="header-button-icon header-button-icon_cart" data-name="cartBold" data-plasma-icon></i>
+  </div>
+
+  <div class="frame-toggler" id="frame-toggler" data-translations="{&quot;label&quot;:&quot;Hide Panel&quot;}"></div>
+</div>
+<div
+  class="product-cart-modal-wrapper"
+  id="product-cart-modal"
+  data-type-id="1"
+  data-product-type-name="Html website template"
+  data-translations="{&quot;cartTitle&quot;:&quot;Carrinho de Compras &quot;,&quot;titleServices&quot;:&quot;Servi\u00e7os de personaliza\u00e7\u00e3o recomendados para este produto&quot;,&quot;servicesDetailsLabel&quot;:&quot;Detalhes&quot;,&quot;labelBack&quot;:&quot;Voltar para todos os servi\u00e7os&quot;,&quot;cartTop&quot;:&quot;Voc\u00ea adicionou ao carrinho&quot;,&quot;continueLabel&quot;:&quot;Continue comprando&quot;,&quot;licenseCaption&quot;:&quot;Tipo de licen\u00e7a&quot;,&quot;priceCaption&quot;:&quot;Total&quot;,&quot;singlePriceCaption&quot;:&quot;Subtotal&quot;,&quot;viewCartLabel&quot;:&quot;Ir para o carrinho&quot;,&quot;priceButtonLabel&quot;:&quot;Saindo agora&quot;,&quot;freeLabel&quot;:&quot;De gra\u00e7a&quot;,&quot;feeCaption&quot;:&quot;Taxa de manuseio&quot;,&quot;labelCusomersChoice&quot;:&quot;Escolha dos clientes \u21161&quot;}"
+></div>
+
+
+
+contador simples:
+
+<h8 id="demo"></h8>
+
+                                <script>
+                                // Set the date we're counting down to
+                                var countDownDate = new Date("Oct 06, 2022 09:10:00").getTime();
+
+                                // Update the count down every 1 second
+                                var x = setInterval(function() {
+
+                                  // Get today's date and time
+                                  var now = new Date().getTime();
+                                    
+                                  // Find the distance between now and the count down date
+                                  var distance = countDownDate - now;
+                                    
+                                  // Time calculations for days, hours, minutes and seconds
+                                  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                                  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                                  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                                  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+                                    
+                                  // Output the result in an element with id="demo"
+                                  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+                                  + minutes + "m " + seconds + "s ";
+                                    
+                                  // If the count down is over, write some text 
+                                  if (distance < 0) {
+                                    clearInterval(x);
+                                    document.getElementById("demo").innerHTML = "JA COMEÇOU!";
+                                  }
+                                }, 1000);
+                                </script>
