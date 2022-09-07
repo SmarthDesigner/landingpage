@@ -4825,11 +4825,20 @@ textarea.textarea-lg {
 	position: relative;
 	overflow: hidden;
 	display: block;
+	border-radius: 30px;
+	transition: 0.5s;
 }
 
 .post-modern-figure img {
 	width: 100%;
 	transition: all .3s ease;
+}
+
+.post-modern-figure:hover{
+	margin-top: -20px;
+	transition: 400ms;
+	box-shadow: 2px 20px 25px #1b1929;
+	border-radius: 30px;
 }
 
 .post-modern-time {
