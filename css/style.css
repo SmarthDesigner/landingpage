@@ -1108,6 +1108,13 @@ a[href*='tel'], a[href*='mailto'] {
 	padding: 70px 15px 0;
 	border-radius: 40px;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.17);
+	transition: 0.5s;
+}
+
+.box-pricing:hover{
+	margin-top: -20px;
+	transition: 400ms;
+	box-shadow: 2px 20px 25px #131D32;
 }
 
 .box-pricing .button {
