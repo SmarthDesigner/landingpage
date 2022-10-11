@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/469615dc7e.js" crossorigin="anonymous"></script>
+
+
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src="images/logo.png" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="#header">Principal</a></li>
+                    <li><a href="#about">Sobre</a></li>
+                    <li><a href="#services">Serviços</a></li>
+                    <li><a href="#portifolio">Portifólio</a></li>
+                    <li><a href="#contact">Contato</a></li>
+                    <i class="fas fa-times" onclick="closemenu()"></i>
+                </ul>
+                <i class="fas fa-bars" onclick="openmenu()"></i>
+            </nav>
+            <div class="header-text">
+                <p>Social Media Designer & Desenvolvedor Front-End</p>
+                <h1>Olá, meu nome é <br><span>Julio Cesar</span></h1>
+            </div>
+        </div>
+    </div>
+
+<!-----------------Sobre Mim---------------->
+
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="images/user.png">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-tittle">Sobre mim</h1>
+                    <p>Completados meus 31 anos de idade, idealizador do 
+                        projeto SmarthDesigner, venho nos ultimos anos 
+                        realizando trabalhos de design em midias sociais 
+                        e me aprofundando em Html/css/JavaScript para 
+                        desenvolvimento de websites. Experiência tambem 
+                        consolidada como tecnico em redes atendendo a 
+                        shows e eventos na região metropolitana 
+                        de Belo Holizonte - MG
+                    </p>
+
+                    <div class="tab-tittles">
+                        <p class="tab-links active-link" onclick="opentab('skills')">Abilidades</p>
+                        <p class="tab-links" onclick="opentab('experience')">Experiências</p>
+                        <p class="tab-links" onclick="opentab('education')">Formação</p>
+                    </div>
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>UI/UX</span><br>Design de interfaces Web/App</li>
+                            <li><span>Social Media</span><br>Design de posts para Redes Sociais</li>
+                            <li><span>HTML/CSS</span><br>Desenvolvimento de Web Pages</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="experience">
+                        <ul>
+                            <li><span>SmarthDesinger</span><br>1 ano em Design frontend e midias sociais</li>
+                            <li><span>Figma</span><br>6 meses em UX/UI design em Figma</li>
+                            <li><span>HTML/CSS</span><br>Desenvolvimento de LandingPages e sites institucionais</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>Autodidata</span><br>Cursos Online em Html/CSS/Java Script e Web Design</li>
+                            <li><span>Superior</span><br>Incompleto na UNIPAC-Analise e Desenvolvimento de Sistemas(Tecnologo)</li>
+                            <li><span>Ensino medio</span><br>FUNEC</li>
+                            <li><span>Ensino Fundamental</span><br>Colegio Sagrado Coração de Jesus</li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+<!----------------------------serviços---------------------------->
+    <div id="services">
+        <div class="container">
+            <h1 class="sub-tittle">Meus serviços</h1>
+            <div class="services-list">
+                <div>
+                    <i class="fa-solid fa-code"></i>
+                    <h2>Paginas HTML/CSS/JS</h2>
+                    <p>Criação de sites desenvolvidos com tecnologia html, css e javascript.
+                    </p>
+                    <a href="#">Saiba mais</a>
+                </div>
+                <div>
+                    <i class="fa-sharp fa-solid fa-heart"></i>
+                    <h2>Midia Sociais Design</h2>
+                    <p>Serviço de criação de identidade visual em perfil do instagram, Logo, cores, estratégias de posts.
+                    </p>
+                    <a href="#">Saiba mais</a>
+                </div>
+                <div>
+                    <i class="fa-sharp fa-solid fa-heart"></i>
+                    <h2>Logo Design</h2>
+                    <p>Criação de logotipo para diversas empresas em diferentes ramos de atuação no mercado.
+                    </p>
+                    <a href="#">Saiba mais</a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <!------------------------portifólio----------------->
+
+    <div id="portifolio">
+        <div class="container">
+            <h1 class="sub-tittle">Trabalhos realizados</h1>
+            <div class="work-list">
+                <div class="work">
+                    <img src="images/work-1.png">
+                    <div class="layer">
+                        <h3>Social Media</h3>
+                        <p>Perfil de vendas especialiizado em suplementos naturais no instagram.</p>
+                            <a href="#"><i class="fa-solid fa-link"></i></a>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="images/work-2.png">
+                    <div class="layer">
+                        <h3>Logo maker</h3>
+                        <p>Logo criada para empresa especializada em vestuário feminino e masculino.</p>
+                            <a href="#"><i class="fa-solid fa-link"></i></a>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="images/work-3.png">
+                    <div class="layer">
+                        <h3>html & css</h3>
+                        <p>Pagina modelo formulário feito para a Conexão BudWeiser no evento Planeta Brasil.</p>
+                            <a href="#"><i class="fa-solid fa-link"></i></a>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="btn">Saiba mais</a>
+        </div>
+    </div>
+<!------------------------contato---------------->
+    <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-tittle">Contate-me</h1>
+                    <p><i class="fa-solid fa-share"></i>zuckiarcomercioltda@gmail.com</p>
+                    <p><i class="fa-solid fa-phone"></i>(37)9 8407-7571</p>
+                    <div class="social-icons">
+                        <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                        <a href="#"><i class="fa-brands fa-github"></i></a>
+                    </div>
+                    <a href="images/my-cv.pdf" download class="btn btn2">Download CV</a>
+                </div>
+                <div class="contact-right">
+                    <form name="submit-to-google-sheet" method="POST" data-netlify="true">
+                        <input type="text" name="Name" placeholder="Seu nome" required>
+                        <input type="email" name="Email" placeholder="Seu e-mail" required>
+                        <textarea name="Message" rows="6" placeholder="Sua mensagem"></textarea>
+                        <button type="submit" class="btn btn2">Enviar</button>
+                    </form>
+                    <span id="msg"></span>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p><i class="fa-sharp fa-solid fa-copyright"></i>Copyright, Julio Cesar. Feito com <i class="fa-solid fa-heart"></i> por SmarthDesigner</p>
+        </div>
+    </div>
+
+
+    <script>
+
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+
+        function opentab(tabname){
+            for(tablink of tablinks){
+                tablink.classList.remove("active-link");
+            }
+            for(tabcontent of tabcontents){
+                tabcontent.classList.remove("active-tab");
+            }
+
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+
+
+        
+
+    </script>
+
+    <script>
+
+        var sidemenu = document.getElementById("sidemenu");
+
+        function openmenu(){
+            sidemenu.style.right = "0";
+        }
+        
+        function closemenu(){
+            sidemenu.style.right = "-200px";
+        }
+    </script>
+
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzmKZ7_6yASkn2e45i0qZq5TOxtFjQBnxXayfe8AkYOxX_ykJr5lmxK2IM3g8Whjly9Ew/exec'
+    const form = document.forms['submit-to-google-sheet']
+  
+    const msg = document.getElementById("msg")
+
+    form.addEventListener('submit', e => {
+      e.preventDefault()
+      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response => {
+            msg.innerHTML = "Mensagem enviada com sucesso!"
+            setTimeout(function(){
+                msg.innerHTML = ""
+            },3000)
+            form.reset()
+        })
+        .catch(error => console.error('Error!', error.message))
+    })
+  </script>
+
+</body>
+</html>
